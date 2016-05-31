@@ -11,7 +11,7 @@
 <meta property="og:url" content="http://www.azebot.cf" />
 <meta property="fb:app_id" content="302184056577324" />
 <meta property="og:type" content="article" />
-<meta property="og:image" content="http://i.hizliresim.com/pPoWB0.png" />
+<meta property="og:image" content="http://i.hizliresim.com/81bd17.png" />
 <meta property="og:description" content="Fb bot v4 Fb bot sitesi auto like auto comment fb liker Hizli begeni auto comment" />
 <meta property="article:author" content="https://www.facebook.com/DjKenanProduction" />
 
