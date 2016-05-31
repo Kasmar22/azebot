@@ -1,10 +1,6 @@
-<!DOCTYPE html>
-<html lang="az"><head>
-<base href="/">
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>AzeBot.Cf - Fb Bot v4</title>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
+AzeBot.Cf - Bot v4
 
 <!-- for AzeLike Facebook -->  
 <meta property="og:title" content="AzeBot.Cf - Fb Bot v4" />
