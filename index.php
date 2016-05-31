@@ -1,7 +1,22 @@
+<!DOCTYPE html>
+<html lang="az"><head>
+<base href="/">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AzeBot.Cf - Fb Bot v4</title>
 
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
-AzeLike.in - Bot v3
-</title><link rel="stylesheet" type="text/css" href="flambon.css" media="all,handheld"/><link rel="shortcut icon" href="">
+<!-- for AzeLike Facebook -->  
+<meta property="og:title" content="AzeBot.Cf - Fb Bot v4" />
+<meta property="og:url" content="http://www.azebot.cf" />
+<meta property="fb:app_id" content="302184056577324" />
+<meta property="og:type" content="article" />
+<meta property="og:image" content="http://i.hizliresim.com/pPoWB0.png" />
+<meta property="og:description" content="Fb bot v4 Fb bot sitesi auto like auto comment fb liker Hizli begeni auto comment" />
+<meta property="article:author" content="https://www.facebook.com/DjKenanProduction" />
+
+
+<link rel="stylesheet" type="text/css" href="flambon.css" media="all,handheld"/><link rel="shortcut icon" href="">
 
 <script type='text/javascript' src='//go.pub2srv.com/apu.php?zoneid=502034'></script>
 
