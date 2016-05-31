@@ -1,6 +1,6 @@
-
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
-AzeBot.Cf - Bot v4
+AzeLike.in - Bot v3
+</title><link rel="stylesheet" type="text/css" href="flambon.css" media="all,handheld"/><link rel="shortcut icon" href="">
 
 <!-- for AzeLike Facebook -->  
 <meta property="og:title" content="AzeBot.Cf - Fb Bot v4" />
@@ -11,8 +11,6 @@ AzeBot.Cf - Bot v4
 <meta property="og:description" content="Fb bot v4 Fb bot sitesi auto like auto comment fb liker Hizli begeni auto comment" />
 <meta property="article:author" content="https://www.facebook.com/DjKenanProduction" />
 
-
-<link rel="stylesheet" type="text/css" href="flambon.css" media="all,handheld"/><link rel="shortcut icon" href="">
 
 <script type='text/javascript' src='//go.pub2srv.com/apu.php?zoneid=502034'></script>
 
