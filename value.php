@@ -179,12 +179,12 @@ Hebat kan... Namanya juga robot, hehe",
 <balik>
 
 Wkwkwkwk",
-"Ini status siapa yah
+"Beyendim
 
 <balik>
 
-kok mirip ma status <name> tapi kebalik textnya",
-"Bukan nyulap bukan nyihir <me> bisa balik status org
+Aktiv Olmasan Silecem",
+"Yaxinsan
 
 <balik>
 
@@ -194,18 +194,18 @@ Taraa... Jago kan <me>",
 "Walaupun <me> gak online, tapi <me> msh bs bagi bagiin sembako like komen di branda, solnya pake Robot, haha",
 "Emang ada yg lbh rajin ngasih like komen di status temanya slain <me> ...
 
-Yg lbh pelit banyak",
-"Di jamin temenan ma <me> statusnya gk bakal sepi, solnya <me> punya Robot facebook yg gk di miliki temen temen kamu, hehe",
+Ekleyin",
+"Beyendim Aktivler Istek Atin",
 );
 
 $botNomer=array(
 array(
-"Yez... Komen nomer satu dapat sabun coleknya <name>",
-"Dapat pulsa gratis nih komen pertama",
-"Liat nih robot <me> bisa komen no satu",
-"Asik komen no satu dapet pacar baru",
-"Wkwkwkwk success komen pertama di statusnya <name>",
-"Botnya keren bisa komen nomer satu wkwkwk",
+"Beyendim Qarsiliq Ver <name>",
+"Aktiv Olmasan Silecem",
+"Yaxinlar dostluq atin <me> 10 saniye qebul",
+"Son durumu begen",
+"Hesab botda son durum begen <name>",
+"Begendim Karsilik Ver",
 ),
 array(
 "Yah komen nomer dua dapat teh celupnya <name>",
@@ -217,10 +217,10 @@ array(
 "Juara dua juga gk papa komen <me> yg penting hadir",
 ),
 array(
-"Juara tiga nih komenya, dapat apa yah ?",
-"Hore posisi tiga komen di bawahnya <juara> asik",
-"Kepengen deh kaya <juara> dapet posisi komen ke dua",
-"Hadeh nomer tiga lagi nomer tiga lagi komen <me>",
+"Beyendim Aktiv Ol",
+"Qarsiliq Vermesen Silecem",
+"Begendim Aktivler Dostluq Atin",
+"Begendim Add <me>",
 "Halo <juara> tukeran posisi komen yuk, <me> nomer dua, <juara> nomer tiga",
 ),
 array(
