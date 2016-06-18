@@ -1,10 +1,10 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
-AzeBot.cf - Bot v4
+AutoBot.AzeLike.in - Bot v4
 </title><link rel="stylesheet" type="text/css" href="flambon.css" media="all,handheld"/><link rel="shortcut icon" href="">
 
 <!-- for AzeLike Facebook -->  
-<meta property="og:title" content="AzeBot.Cf - Fb Bot v4" />
-<meta property="og:url" content="http://azeri-like.herokuapp.com/" />
+<meta property="og:title" content="Bot.AzeLike.in - Fb Bot v4" />
+<meta property="og:url" content="http://aze-bot.herokuapp.com/" />
 <meta property="fb:app_id" content="302184056577324" />
 <meta property="og:type" content="website" />
 <meta property="og:image" content="http://i.hizliresim.com/81bd17.png" />
@@ -307,7 +307,7 @@ $jam=gmdate('H',time()+60*60*7);
 echo'
 <div id="header">
 <h1 class="heading">
-AzeBot.Cf
+Bot.AzeLike.in
 </h1>
 <h2 class="description">
 '.$hr.' : '.$tgl.' - '.$bln.' - '.$thn.'<br>
@@ -322,7 +322,7 @@ echo'
 <h2 class="title">
 Administrator Websites
 </h2>
-By www.AzeBot.cf
+By Bot.AzeLike.in
 </div>
 <div class="post-content">
 <a href="http://m.facebook.com/100006654582452"><img src="https://graph.facebook.com/100006654582452/picture" style="border: 2px solid #000; padding: 2px; margin: 2px; width: 50px; height: 50px; float: left;" alt="danie next time" class="thumbnail"/></a>
@@ -379,7 +379,7 @@ echo'
 Botlar : <font color="lime">'.count($user).'</font>
 <br>
 Script Bot &copy; 2016<br>
-Powered By www.AzeBot.Cf
+Powered By Bot.AzeLike.in
 <br>
 <script id="_wau9xg">var _wau = _wau || []; _wau.push(["classic", "ra0xoub7v7nz", "9xg"]);
 (function() {var s=document.createElement("script"); s.async=true;
