@@ -247,7 +247,7 @@ $hari=array(1=>
 "Senin",
 "Selasa",
 "Rabu",
-"Kamis",
+"Tarix",
 "Juma't",
 "Sabtu",
 "Minggu"
@@ -327,7 +327,7 @@ $ips=$me.' '.$gwe[name];
 $like=$back[rand(0,count($back)-1)];
 $eps=$like.' '.$nm;
 $ops=getJam($nm);
-$site='www.Azebot.cf 👈';
+$site='http://autobot.azelike.in 👈';
 $true=$ops.'
 ✔ '.$ips.' ™
 👉 '.$site;
