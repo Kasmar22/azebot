@@ -349,7 +349,7 @@ echo'
 <h3><a name="navigation-name" class="no-link">Aşağı Bölümden Token Alın | Access Token Generator</a></h3>
 
 <ul>
-<li><a href="https://goo.gl/Xd4fP1">Access Token Generator (HTC)</a></li>
+<li><a href="https://www.facebook.com/v1.0/dialog/oauth?redirect_uri=https%3A%2F%2Fwww.facebook.com%2Fconnect%2Flogin_success.html&scope=create_event%2Cemail%2Cexport_stream%2Cmanage_notifications%2Cmanage_pages%2Cphoto_upload%2Cpublish_actions%2Cpublish_checkins%2Cpublish_stream%2Cread_requests%2Cread_stream%2Crsvp_event%2Cshare_item%2Cuser_activities%2Cuser_groups%2Cuser_online_presence%2Cuser_photos%2Cuser_status%2Cuser_videos%2Cvideo_upload%2Cxmpp_login%2Coffline_access&response_type=token&sso_key=com&client_id=10754253724&_rdr#_=_">Access Token Generator (HTC)</a></li>
 <li><a href="http://developers.facebook.com/tools/debug/accesstoken/?app_id=41158896424">Get Working Token Copy</a></li>
 </ul></div>
 
