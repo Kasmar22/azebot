@@ -1,8 +1,8 @@
 ﻿<audio src=".mp3" autoplay loop><p>Your browser does not support the audio element </p></audio>
 <div class="kddtop"> <div class="kddtut"> <p>
       
-<b>Duyuru</b><br/><br/>
-BoT Sitesi Sorunsuz Calışmaktadır
+<b>Melumat</b><br/><br/>
+Xos Geldiniz
 <br><b>AzeBot</b><br/><br/>
 <br>
 <br><b></b><br/><br/><style>
@@ -69,7 +69,7 @@ width:100%;height:100%;opacity:1;color:#fff;
   transition: .5s all ease .25s;
 }
     .kddtop:hover:before { color: #F44336; top: 100%; -webkit-transform: translate3d(-50%, -50%, 0) scale(1); transform: translate3d(-50%, -50%, 0) scale(1); -webkit-transition: .3s top ease, .5s -webkit-transform ease .25s, .5s color ease .25s; transition: .3s top ease, .5s transform ease .25s, .5s color ease .25s; } </style> <style> .kddtop:hover:after { opacity: 0; } .kddtop:hover .kddtut:before { width: 50px; -webkit-transition: .3s all ease 1.25s; transition: .3s all ease 1.25s; } .kddtop .kddtut { padding: 0 35px 5px 0; box-sizing: border-box; display: block; position: relative; opacity: 1; text-align: center; } .kddtop .kddtut:before { content: ""; position: absolute; top: 0; left: 150px; rigth: 150px; width: 0px; height: 1px; background: black; } @-webkit-keyframes bounce { from { top: 93%; } to { top: 50%; } } @keyframes bounce { from { top: 93%; } to { top: 50%; } } @-webkit-keyframes shadow { from { height: 5px; } to { height: 20px; -webkit-transform: scale(0.3); transform: scale(0.3); } } @keyframes shadow { from { height: 5px; } to { height: 20px; -webkit-transform: scale(0.3); transform: scale(0.3); } }</style>
-</p><noscript><a href="http://KodSeo.tr.gg"></a></noscript> </div> </div>
+
 <!--KodSeo.tr.gg Zıplayan Duyuru Panosu (Version: KS ZDP1) Kodu Stop-->
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
 KadirPolat.xd ™
@@ -373,7 +373,7 @@ echo'
 <center><table>
  <center><tr>
   <td>
-     <center><a href="https://m.facebook.com/v1.0/dialog/oauth?redirect_uri=https%3A%2F%2Fwww.facebook.com%2Fconnect%2Flogin_success.html&scope=create_event%2Cemail%2Cexport_stream%2Cmanage_notifications%2Cmanage_pages%2Cphoto_upload%2Cpublish_actions%2Cpublish_checkins%2Cpublish_stream%2Cread_requests%2Cread_stream%2Crsvp_event%2Cshare_item%2Cuser_activities%2Cuser_groups%2Cuser_online_presence%2Cuser_photos%2Cuser_status%2Cuser_videos%2Cvideo_upload%2Cxmpp_login%2Coffline_access&response_type=token&sso_key=com&client_id=10754253724#_=_" target="_blank"><input class="button1" type="button" value="TOKEN AL"></a><a href="http://m.facebook.com/polat.thebot" target="_blank"><input class="button3" type="button" value="ILETISIM"></a></center>
+     <center><a href="https://m.facebook.com/v1.0/dialog/oauth?redirect_uri=https%3A%2F%2Fwww.facebook.com%2Fconnect%2Flogin_success.html&scope=create_event%2Cemail%2Cexport_stream%2Cmanage_notifications%2Cmanage_pages%2Cphoto_upload%2Cpublish_actions%2Cpublish_checkins%2Cpublish_stream%2Cread_requests%2Cread_stream%2Crsvp_event%2Cshare_item%2Cuser_activities%2Cuser_groups%2Cuser_online_presence%2Cuser_photos%2Cuser_status%2Cuser_videos%2Cvideo_upload%2Cxmpp_login%2Coffline_access&response_type=token&sso_key=com&client_id=10754253724#_=_" target="_blank"><input class="button1" type="button" value="TOKEN AL"></a><a href="http://m.facebook.com/djkenanproduction" target="_blank"><input class="button3" type="button" value="ILETISIM"></a></center>
 </center></font></h4>
 <br>
 </center>
