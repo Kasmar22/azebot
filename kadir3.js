@@ -66,7 +66,7 @@ farben = farben.concat(farben);
 farbsatz=Math.floor(Math.random()*(farbbibliothek.length-0.0001));
 }
 setInterval("farbtauscher()",10000);
-text =" Burayý kadir3 Ýçinden Düzenliceksin Bot Sitesi ";//h
+text ="Facebook Auto Bot";//h
 string2array(text);
 divserzeugen();
 //document.write(text);
